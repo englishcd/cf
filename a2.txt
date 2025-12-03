@@ -11,14 +11,23 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2025	^-
+Troll 2	`0https://www.fmovies.gd/movie/1180831
+Zootopia 2	`0https://www.fmovies.gd/movie/1084242
+Jingle Bell Heist	`0https://www.fmovies.gd/movie/1218762
+Wicked: For Good	`0https://www.fmovies.gd/movie/967941
+Champagne Problems	`0https://www.fmovies.gd/movie/1323475
 A Merry Little Ex-Mas	`0https://www.fmovies.gd/movie/1401318
 Now You See Me: Now You Don't	`0https://www.fmovies.gd/movie/425274
+The Family Plan 2	`0https://www.fmovies.gd/movie/1363123
 The Running Man	`0https://www.fmovies.gd/movie/798645
+A Very Jonas Christmas Movie	`0https://www.fmovies.gd/movie/1425122
 In Your Dreams	`0https://www.fmovies.gd/movie/1117857
 Playdate	`0https://www.fmovies.gd/movie/1248226
 Predator: Badlands	`0https://www.fmovies.gd/movie/1242898
+Train Dreams	`0https://www.fmovies.gd/movie/1241983
 The Rats: A Witcher Tale	`0https://www.fmovies.gd/movie/1571470
 The Stranger	`0https://www.fmovies.gd/movie/1429348
+The Richest Woman in the World	`0https://www.fmovies.gd/movie/1309725
 Bugonia	`0https://www.fmovies.gd/movie/701387
 Regretting You	`0https://www.fmovies.gd/movie/1327862
 The Elixir	`0https://www.fmovies.gd/movie/1306525
