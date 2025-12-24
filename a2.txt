@@ -12,6 +12,9 @@
 
 2025	^-
 Avatar: Fire and Ash	`0https://www.fmovies.gd/movie/83533
+Tell Me Softly	`0https://www.fmovies.gd/movie/1379963
+Merv	`0https://www.fmovies.gd/movie/1255775
+Hunting Season	`0https://www.fmovies.gd/movie/1387382
 Dhurandhar	`0https://www.fmovies.gd/movie/1291608
 Oh. What. Fun.	`0https://www.fmovies.gd/movie/1261825
 Five Nights at Freddy's 2	`0https://www.fmovies.gd/movie/1228246
@@ -21,6 +24,7 @@ Eternity	`0https://www.fmovies.gd/movie/1259102
 Zootopia 2	`0https://www.fmovies.gd/movie/1084242
 Wake Up Dead Man: A Knives Out Mystery	`0https://www.fmovies.gd/movie/812583
 Jingle Bell Heist	`0https://www.fmovies.gd/movie/1218762
+Wildcat	`0https://www.fmovies.gd/movie/1448560
 Case 137	`0https://www.fmovies.gd/movie/1294698
 Wicked: For Good	`0https://www.fmovies.gd/movie/967941
 Champagne Problems	`0https://www.fmovies.gd/movie/1323475
@@ -48,11 +52,13 @@ Springsteen: Deliver Me from Nowher	`0https://www.fmovies.gd/movie/1230368
 Kaamelott: The Second Chapter (Part I)	`0https://www.fmovies.gd/movie/1076897
 Hedda	`0https://www.fmovies.gd/movie/997113
 The Little Sister	`0https://www.fmovies.gd/movie/961077
+Arco	`0https://www.fmovies.gd/movie/804370
 Sisu: Road to Revenge	`0https://www.fmovies.gd/movie/1223601
 Blue Moon	`0https://www.fmovies.gd/movie/1299655
 Frankenstein	`0https://www.fmovies.gd/movie/1062722
 The Twits	`0https://www.fmovies.gd/movie/927254
 The Hand That Rocks the Cradle	`0https://www.fmovies.gd/movie/1362315
+The Mastermind	`0https://www.fmovies.gd/movie/1352624
 Icefall	`0https://www.fmovies.gd/movie/1242501
 Ballad of a Small Player	`0https://www.fmovies.gd/movie/1272166
 Dog 51	`0https://www.fmovies.gd/movie/1266798
