@@ -23,7 +23,6 @@
 [l]{h} *3 Kodi[z]	^^h3
 [l]{h} * Free IPTV[z]	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 [l]{h} * International Sports[z]	^^hk^sports.m3u
-[l]{h} * International Channels 🇧🇷[z]	^^hhttps://freenote.biz/raw/dyv52mh0zb
 🌍 Countries: International	^^hc^int.m3u
 🆔 Indonesia	^^hc^id.m3u
 🇹🇭 Thailand	^^hc^th.m3u
