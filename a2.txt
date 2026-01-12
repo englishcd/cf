@@ -10,6 +10,8 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
+23376 movies	^-
+
 2026	^-
 7.1 People We Meet on Vacation	`0https://www.fmovies.gd/movie/1034716
 
@@ -114,5 +116,30 @@
 5.8 The Astronaut	`0https://www.fmovies.gd/movie/1086260
 8.2 The Voice of Hind Rajab	`0https://www.fmovies.gd/movie/1480382
 7.8 The Last One for the Road	`0https://www.fmovies.gd/movie/1462322
+7.6 Ruth & Boaz	`0https://www.fmovies.gd/movie/1371189
+6.0 French Lover	`0https://www.fmovies.gd/movie/1289888
+6.3 Mantis	`0https://www.fmovies.gd/movie/1267319
+6.0 The Strangers: Chapter 2	`0https://www.fmovies.gd/movie/1010756
+7.8 No Other Choice	`0https://www.fmovies.gd/movie/639988
+6.4 Dead of Winter	`0https://www.fmovies.gd/movie/1235746
+7.5 One Battle After Another	`0https://www.fmovies.gd/movie/1054867
+6.3 V/H/S/Halloween	`0https://www.fmovies.gd/movie/1373445
+7.2 Prisoner of War	`0https://www.fmovies.gd/movie/1328803
+6.0 Vicious	`0https://www.fmovies.gd/movie/1251717
+6.4 Steve	`0https://www.fmovies.gd/movie/1242404
+7.1 The Lost Bus	`0https://www.fmovies.gd/movie/1236470
+8.3 Chainsaw Man - The Movie: Reze Arc	`0https://www.fmovies.gd/movie/1218925
+6.0 Adulthood	`0https://www.fmovies.gd/movie/1083420
+5.8 She Said Maybe	`0https://www.fmovies.gd/movie/1509871
+6.1 Altered	`0https://www.fmovies.gd/movie/1309012
+7.1 The Tank	`0https://www.fmovies.gd/movie/1252037
+6.9 London Calling	`0https://www.fmovies.gd/movie/1217602
+7.7 Aztec Batman: Clash of Empires	`0https://www.fmovies.gd/movie/987400
+5.7 HIM	`0https://www.fmovies.gd/movie/986097
+6.0 The Great Flood	`0https://www.fmovies.gd/movie/982843
+6.3 A Big Bold Beautiful Journey	`0https://www.fmovies.gd/movie/1241921
+7.3 The Holy Boy	`0https://www.fmovies.gd/movie/1092936
+7.4 Left-Handed Girl	`0https://www.fmovies.gd/movie/999075
+
 
 	^-
