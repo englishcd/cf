@@ -7,7 +7,6 @@
 [l]{s} Ⓢc0 Movies Film[z]	^^s0
 [l]{h} *12 Movies Film VOD 1[z]	^^h12
 [l]{h} *13 Movies Film VOD 2 Mobile[z]	^^h13
-[l]{h} * Action Movies Film VOD[z]	^^hhttps://raw.githubusercontent.com/Justryuz/jtv/main/actionvod.m3u
 [l]{h} Ⓨ4 Movies Film 1[z]	^^h4
 [l]{h} Ⓩ5 Movies Film 2[z]	^^h5
 [l]{h} Ⓣ6 Movies Film 3[z]	^^h6
