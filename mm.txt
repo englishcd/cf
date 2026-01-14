@@ -1,25 +1,5 @@
 [w]Playlist[z] [y]Main Menu[z]	^-
 
-[y]{h} *9 Al Qur'an.mp3[z]	^^h9
-[l]{h} *7 Conspiracy Truth 1[z]	^^h7
-[l]{h} *8 Conspiracy Truth 2[z]	^^h8
-[y]Movies Channels Multi Sub +Indo[z]	^-
-[l]{s} Ⓢc0 Movies Film[z]	^^s0
-[l]{h} *12 Movies Film VOD 1[z]	^^h12
-[l]{h} *13 Movies Film VOD 2 Mobile[z]	^^h13
-[l]{h} Ⓨ4 Movies Film 1[z]	^^h4
-[l]{h} Ⓩ5 Movies Film 2[z]	^^h5
-[l]{h} Ⓣ6 Movies Film 3[z]	^^h6
-[y]🆔 Indo Channels: Ⓜa1, Ⓧa2[z]	^-
-[l]{s} Ⓗa0 ⚽️Live Sports[z]	^^sa0
-[l]{s} Ⓜa1 🤹Multi 🆔[z]	^^sa1
-[l]{s} Ⓧa2 🤺eXtra 🆔[z]	^^sa2
-[l]{h} Ⓞb0 Okay[z]	^^hb0
-[l]{h} Ⓒb1 Cool[z]	^^hb1
-[l]{h} Ⓕb2 Fun[z]	^^hb2
-[l]{h} Ⓦb3 Wow Sports![z]	^^hb3
-[l]{h} Ⓟc1 Pluto[z]	^^h1
-[l]{s} Ⓘc2 SportsTV[z]	^^s2
 [l]{h} *3 Kodi[z]	^^h3
 [l]{h} * Free IPTV[z]	^^hhttps://raw.githubusercontent.com/ipstreet312/freeiptv/master/all.m3u
 [l]{h} * International Sports[z]	^^hk^sports.m3u
@@ -293,5 +273,26 @@ Relax	^^hk^relax.m3u
 {h} *14 iptv-org	^^h14
 {h} Ⓢ10 0 Samsung	^^h10
 {h} Ⓟ11 1 Pluto	^^h11
+
+[y]{h} *9 Al Qur'an.mp3[z]	^^h9
+[l]{h} *7 Conspiracy Truth 1[z]	^^h7
+[l]{h} *8 Conspiracy Truth 2[z]	^^h8
+[y]Movies Channels Multi Sub +Indo[z]	^-
+[l]{s} Ⓢc0 Movies Film[z]	^^s0
+[l]{h} *12 Movies Film VOD 1[z]	^^h12
+[l]{h} *13 Movies Film VOD 2 Mobile[z]	^^h13
+[l]{h} Ⓨ4 Movies Film 1[z]	^^h4
+[l]{h} Ⓩ5 Movies Film 2[z]	^^h5
+[l]{h} Ⓣ6 Movies Film 3[z]	^^h6
+[y]🆔 Indo Channels: Ⓜa1, Ⓧa2[z]	^-
+[l]{s} Ⓗa0 ⚽️Live Sports[z]	^^sa0
+[l]{s} Ⓜa1 🤹Multi 🆔[z]	^^sa1
+[l]{s} Ⓧa2 🤺eXtra 🆔[z]	^^sa2
+[l]{h} Ⓞb0 Okay[z]	^^hb0
+[l]{h} Ⓒb1 Cool[z]	^^hb1
+[l]{h} Ⓕb2 Fun[z]	^^hb2
+[l]{h} Ⓦb3 Wow Sports![z]	^^hb3
+[l]{h} Ⓟc1 Pluto[z]	^^h1
+[l]{s} Ⓘc2 SportsTV[z]	^^s2
 
 	^-
