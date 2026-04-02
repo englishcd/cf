@@ -34,5 +34,28 @@ Cold Storage	`1https://vidfast.pro/movie/696393
 Peaky Blinders: The Immortal Man	`1https://vidfast.pro/movie/875828
 People We Meet on Vacation	`1https://vidfast.pro/movie/1034716
 Mike & Nick & Nick & Alice	`1https://vidfast.pro/movie/1115544
+How to Make a Killing	`1https://vidfast.pro/movie/467905
+Joe's College Road Trip	`1https://vidfast.pro/movie/1243460
+The Bride!	`1https://vidfast.pro/movie/1159831
+Pretty Lethal	`1https://vidfast.pro/movie/1084187
+The Big Fake	`1https://vidfast.pro/movie/1443762
+The Strangers: Chapter 3	`1https://vidfast.pro/movie/1010755
+Love Me Love Me	`1https://vidfast.pro/movie/1317672
+Firebreak	`1https://vidfast.pro/movie/1428862
+Do Not Enter	`1https://vidfast.pro/movie/999136
+One Mile: Chapter One	`1https://vidfast.pro/movie/1327688
+The Muppet Show	`1https://vidfast.pro/movie/1548113
+State of Fear	`1https://vidfast.pro/movie/1426964
+Ready or Not: Here I Come	`1https://vidfast.pro/movie/1266127
+In the Blink of an Eye	`1https://vidfast.pro/movie/1032892
+Killer Whale	`1https://vidfast.pro/movie/1412598
+Agent Zeta	`1https://vidfast.pro/movie/1314786
+The Good Boy	`1https://vidfast.pro/movie/1381027
+Louis Theroux: Inside the Manosphere	`1https://vidfast.pro/movie/1633264
+The Dreadful	`1https://vidfast.pro/movie/1242937
+Misdirection	`1https://vidfast.pro/movie/1146344
+Kissing Is the Easy Part	`1https://vidfast.pro/movie/1515615
+undertone	`1https://vidfast.pro/movie/1480387
+They Will Kill You	`1https://vidfast.pro/movie/1292695
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
