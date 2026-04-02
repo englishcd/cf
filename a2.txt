@@ -10,18 +10,18 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2026	^-
-Shelter	`1https://vidfast.pro/movie/1290821
-Greenland 2: Migration	`1https://vidfast.pro/movie/840464
-Send Help	`1https://vidfast.pro/movie/1198994
-28 Years Later: The Bone Temple	`1https://vidfast.pro/movie/1272837
-Scream 7	`1https://vidfast.pro/movie/1159559
-Mercy	`1https://vidfast.pro/movie/1236153
-War Machine	`1https://vidfast.pro/movie/1265609
-The Rip	`1https://vidfast.pro/movie/1306368
-The Wrecking Crew	`1https://vidfast.pro/movie/1168190
-Crime 101	`1https://vidfast.pro/movie/1171145
-Project Hail Mary	`1https://vidfast.pro/movie/687163
-Iron Lung	`1https://vidfast.pro/movie/1116201
+Shelter .United States .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
+Send Help .United States .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
+Greenland 2: Migration .United Kingdom .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
+28 Years Later: The Bone Temple .United Kingdom .English .Horror .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1272837
+Scream 7 .United States .English .Crime .Horror .Mystery	`1https://vidfast.pro/movie/1159559
+Mercy .United States .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1236153
+War Machine .Australia .English .Action .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1265609
+The Rip .United States .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1306368
+The Wrecking Crew .United States .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1168190
+Crime 101 .United Kingdom .English .Crime .Thriller	`1https://vidfast.pro/movie/1171145
+Project Hail Mary .United States .English .Adventure .Sci-Fi	`1https://vidfast.pro/movie/687163
+Iron Lung .United States .English .Horror .Sci-Fi	`1https://vidfast.pro/movie/1116201
 Return to Silent Hill	`1https://vidfast.pro/movie/680493
 “Wuthering Heights”	`1https://vidfast.pro/movie/1316092
 GOAT	`1https://vidfast.pro/movie/1297842
@@ -74,9 +74,9 @@ F Valentine's Day	`1https://vidfast.pro/movie/1429605
 Redux Redux	`1https://vidfast.pro/movie/1340110
 This Is Not a Test	`1https://vidfast.pro/movie/1428990
 Kayla	`1https://vidfast.pro/movie/1614921
-Hannah Montana 20th Anniversary Special	`1https://vidfast.pro/movie/1637319
-The Internship	`1https://vidfast.pro/movie/1584215
-Grizzly Night	`1https://vidfast.pro/movie/1249508
-Dolly	`1https://vidfast.pro/movie/1309083
+Hannah Montana 20th Anniversary Special .United States .English .Documentary .Family .Music	`1https://vidfast.pro/movie/1637319
+The Internship .English .Action	`1https://vidfast.pro/movie/1584215
+Grizzly Night .United States .English .Horror .Thriller	`1https://vidfast.pro/movie/1249508
+Dolly .United States .English .Horror	`1https://vidfast.pro/movie/1309083
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
