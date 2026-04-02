@@ -10,29 +10,29 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2026	^-
-The Alice Paradox	`1https://vidfast.pro/movie/1614487
-The Morrigan	`1https://vidfast.pro/movie/1189885
-Eat Pray Bark	`1https://vidfast.pro/movie/1635276
-The Giant Falls	`1https://vidfast.pro/movie/1487320
-Aaron Chen: Funny Garden	`1https://vidfast.pro/movie/1660968
-Rory McIlroy: The Masters Wait	`1https://vidfast.pro/movie/1646341
-Picture Perfect Sister-in-Law	`1https://vidfast.pro/movie/1547656
-The Man in the Window	`1https://vidfast.pro/movie/1495473
-Chernobyl: 48 Hours To Escape	`1https://vidfast.pro/movie/1655751
-A Royal Setting	`1https://vidfast.pro/movie/1628524
-Blessings in Disguise	`1https://vidfast.pro/movie/1640299
-Color Theories by Julio Torres. A Guide to Seeing the World	`1https://vidfast.pro/movie/1573688
-BTS: THE RETURN	`1https://vidfast.pro/movie/1628116
-Love At Last	`1https://vidfast.pro/movie/1582328
-Refuge	`1https://vidfast.pro/movie/1643294
-53 Sundays	`1https://vidfast.pro/movie/1276704
-Forbidden Fruits	`1https://vidfast.pro/movie/1450527
-They Will Kill You	`1https://vidfast.pro/movie/1292695
-Quakeasaurus	`1https://vidfast.pro/movie/1143801
-Jeff Ross: Take a Banana for the Ride	`1https://vidfast.pro/movie/1555160
-The Flesh People	`1https://vidfast.pro/movie/1646413
-Hannah Montana 20th Anniversary Special	`1https://vidfast.pro/movie/1637319
-Confessions of a Female Serial Killer	`1https://vidfast.pro/movie/1643466
-Who Could Kill a Sweet Old Lady	`1https://vidfast.pro/movie/1653844
+Shelter	`1https://vidfast.pro/movie/1290821
+Greenland 2: Migration	`1https://vidfast.pro/movie/840464
+Send Help	`1https://vidfast.pro/movie/1198994
+28 Years Later: The Bone Temple	`1https://vidfast.pro/movie/1272837
+Scream 7	`1https://vidfast.pro/movie/1159559
+Mercy	`1https://vidfast.pro/movie/1236153
+War Machine	`1https://vidfast.pro/movie/1265609
+The Rip	`1https://vidfast.pro/movie/1306368
+The Wrecking Crew	`1https://vidfast.pro/movie/1168190
+Crime 101	`1https://vidfast.pro/movie/1171145
+Project Hail Mary	`1https://vidfast.pro/movie/687163
+Iron Lung	`1https://vidfast.pro/movie/1116201
+Return to Silent Hill	`1https://vidfast.pro/movie/680493
+“Wuthering Heights”	`1https://vidfast.pro/movie/1316092
+GOAT	`1https://vidfast.pro/movie/1297842
+Primate	`1https://vidfast.pro/movie/1315303
+Good Luck, Have Fun, Don't Die	`1https://vidfast.pro/movie/1119449
+The Bluff	`1https://vidfast.pro/movie/799882
+Whistle	`1https://vidfast.pro/movie/1193501
+Hoppers	`1https://vidfast.pro/movie/1327819
+Cold Storage	`1https://vidfast.pro/movie/696393
+Peaky Blinders: The Immortal Man	`1https://vidfast.pro/movie/875828
+People We Meet on Vacation	`1https://vidfast.pro/movie/1034716
+Mike & Nick & Nick & Alice	`1https://vidfast.pro/movie/1115544
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
