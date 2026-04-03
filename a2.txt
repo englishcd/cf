@@ -34,29 +34,29 @@ Cold Storage .UK .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/69
 Peaky Blinders: The Immortal Man .UK .English .Crime .Drama	`1https://vidfast.pro/movie/875828
 People We Meet on Vacation .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1034716
 Mike & Nick & Nick & Alice .US .English .Comedy .Crime .Sci-Fi	`1https://vidfast.pro/movie/1115544
-How to Make a Killing	`1https://vidfast.pro/movie/467905
-Joe's College Road Trip	`1https://vidfast.pro/movie/1243460
-The Bride!	`1https://vidfast.pro/movie/1159831
-Pretty Lethal	`1https://vidfast.pro/movie/1084187
-The Big Fake	`1https://vidfast.pro/movie/1443762
-The Strangers: Chapter 3	`1https://vidfast.pro/movie/1010755
-Love Me Love Me	`1https://vidfast.pro/movie/1317672
-Firebreak	`1https://vidfast.pro/movie/1428862
-Do Not Enter	`1https://vidfast.pro/movie/999136
-One Mile: Chapter One	`1https://vidfast.pro/movie/1327688
-The Muppet Show	`1https://vidfast.pro/movie/1548113
-State of Fear	`1https://vidfast.pro/movie/1426964
-Ready or Not: Here I Come	`1https://vidfast.pro/movie/1266127
-In the Blink of an Eye	`1https://vidfast.pro/movie/1032892
-Killer Whale	`1https://vidfast.pro/movie/1412598
-Agent Zeta	`1https://vidfast.pro/movie/1314786
-The Good Boy	`1https://vidfast.pro/movie/1381027
-Louis Theroux: Inside the Manosphere	`1https://vidfast.pro/movie/1633264
-The Dreadful	`1https://vidfast.pro/movie/1242937
-Misdirection	`1https://vidfast.pro/movie/1146344
-Kissing Is the Easy Part	`1https://vidfast.pro/movie/1515615
-undertone	`1https://vidfast.pro/movie/1480387
-They Will Kill You	`1https://vidfast.pro/movie/1292695
+How to Make a Killing .UK .English .Comedy .Drama .Thriller	`1https://vidfast.pro/movie/467905
+Joe's College Road Trip .US .English .Comedy	`1https://vidfast.pro/movie/1243460
+The Bride! .US .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1159831
+Pretty Lethal .US .English .Action .Horror .Thriller	`1https://vidfast.pro/movie/1084187
+The Big Fake .Italy .Italian .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1443762
+The Strangers: Chapter 3 .UK .English .Horror .Thriller	`1https://vidfast.pro/movie/1010755
+Love Me Love Me .Italy .English .Drama .Romance	`1https://vidfast.pro/movie/1317672
+Firebreak .Spain .Spanish .Drama .Thriller	`1https://vidfast.pro/movie/1428862
+Do Not Enter .US .English .Horror	`1https://vidfast.pro/movie/999136
+One Mile: Chapter One .US .English .Action .Crime	`1https://vidfast.pro/movie/1327688
+The Muppet Show .US .English .Comedy .Drama .Family	`1https://vidfast.pro/movie/1548113
+State of Fear .Brazil .Portuguese .Action .Crime .Drama	`1https://vidfast.pro/movie/1426964
+Ready or Not: Here I Come .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1266127
+In the Blink of an Eye .US .English .Drama .Sci-Fi	`1https://vidfast.pro/movie/1032892
+Killer Whale .Australia .English .Action .Horror .Mystery	`1https://vidfast.pro/movie/1412598
+Agent Zeta .Spain .Spanish .Drama .Thriller	`1https://vidfast.pro/movie/1314786
+The Good Boy .UK .English .Drama .Horror .Mystery	`1https://vidfast.pro/movie/1381027
+Louis Theroux: Inside the Manosphere .UK .English .Documentary	`1https://vidfast.pro/movie/1633264
+The Dreadful .US .English .Horror	`1https://vidfast.pro/movie/1242937
+Misdirection .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1146344
+Kissing Is the Easy Part .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1515615
+Undertone .Canada .English .Horror .Mystery	`1https://vidfast.pro/movie/1480387
+They Will Kill You .US .English .Action .Comedy .Horror	`1https://vidfast.pro/movie/1292695
 The Confession	`1https://vidfast.pro/movie/1454741
 Solo Mio	`1https://vidfast.pro/movie/1291335
 Reminders of Him	`1https://vidfast.pro/movie/1367642
