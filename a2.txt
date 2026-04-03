@@ -136,5 +136,17 @@ The Drift .Finland .English .Drama .Thriller	`1https://vidfast.pro/movie/1424965
 The Stars Between Us .English .Romance	`1https://vidfast.pro/movie/1608619
 Furious Attack .Mandarin .Action .Crime  Thriller	`1https://vidfast.pro/movie/1592032
 Ghost Elephants .US .English .Documentary	`1https://vidfast.pro/movie/1451867
+Royally Screwed .US .English .Romance	`1https://vidfast.pro/movie/1530067
+Caught by Love .Canada .English .Drama .Romance	`1https://vidfast.pro/movie/1591919
+Honey .Telugu .Horror .Thriller	`1https://vidfast.pro/movie/1607762
+Lost in Paradise .Fiji .English .Drama .Romance	`1https://vidfast.pro/movie/1592021
+A Melbourne Match .Canada .English .Drama .Romance	`1https://vidfast.pro/movie/1591916
+Melania .US .English .Documentary	`1https://vidfast.pro/movie/1413097
+Leave .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1532688
+The Cure .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1389881
+Trial Period .Ukraine .Ukrainian .Comedy	`1https://vidfast.pro/movie/1541434
+Pavane .South Korea .Korean .Drama .Romance	`1https://vidfast.pro/movie/1268609
+Pushed Off a Plane and Survived .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1642210
+Mars .US .English .Animation .Comedy .Sci-Fi	`1https://vidfast.pro/movie/916588
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
