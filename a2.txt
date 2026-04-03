@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-16-26
+2026	^-17-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -207,5 +207,17 @@ Jackie Fabulous: You Can Leave .English .Comedy	`1https://vidfast.pro/movie/1623
 Operation Taco Gary's .US .English .Action .Comedy .Sci-Fi	`1https://vidfast.pro/movie/1130875
 New Jersey Devil .US .English .Horror .Mystery	`1https://vidfast.pro/movie/1520453
 Cursed Hearse .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1649529
+Cheekatilo .India .Telugu .Thriller	`1https://vidfast.pro/movie/1263037
+Broken Bonds .US .English .Crime .Mystery .Thriller	`1https://vidfast.pro/movie/1608230
+Preschool .US .English .Comedy	`1https://vidfast.pro/movie/1440049
+Miracle: The Boys of '80 .US .English .Documentary .History	`1https://vidfast.pro/movie/1613335
+The Palestine Exception .US .English .Documentary	`1https://vidfast.pro/movie/1426133
+I Don't Love You Anymore .English .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1636196
+The Millwood Murders: Buried Truth .Canada .English .Thriller	`1https://vidfast.pro/movie/1627588
+Missing the Boat .Canada .English .Drama .Romance	`1https://vidfast.pro/movie/1592019
+Fabian and the Deadly Wedding .Germany .German .Comedy .Crime .Mystery	`1https://vidfast.pro/movie/1436061
+Chatha Pacha: The Ring of Rowdies .India .Malayalam .Action .Drama	`1https://vidfast.pro/movie/1439594
+Romance at Hope Ranch .English .Romance	`1https://vidfast.pro/movie/1608620
+The Alice Paradox .UK .English .Drama .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1614487
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
