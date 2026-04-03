@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-20-26
+2026	^-21-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -231,5 +231,17 @@ The Virgin of the Quarry Lake .Argentina .Spanish .Drama .Horror .Thriller	`1htt
 He Killed My Sister .US .English .Thriller	`1https://vidfast.pro/movie/1613175
 Starbright .US .English .Action .Adventure	`1https://vidfast.pro/movie/662707
 Strangers in the Park .Argentina .Spanish .Comedy .Drama	`1https://vidfast.pro/movie/1631485
+The Plastic Detox .English .Documentary	`1https://vidfast.pro/movie/1636918
+Christina .India .Malayalam .Crime .Drama .Mystery	`1https://vidfast.pro/movie/1625615
+Mardaani 3 .India .Hindi .Action .Crime .Thriller	`1https://vidfast.pro/movie/1339876
+The Dresden Sun .US .English .Action .Sci-Fi .Thriller	`1https://vidfast.pro/movie/846049
+Stray Kids: The dominATE Experience .South Korea .Korean .Documentary .Music	`1https://vidfast.pro/movie/1600421
+Demon Squad: Tooth and Claw .US .English .Fantasy .Horror .Mystery	`1https://vidfast.pro/movie/1401357
+By Design .US .English .Comedy .Fantasy .Romance	`1https://vidfast.pro/movie/1355496
+Frankenstein's Bride .English .Horror	`1https://vidfast.pro/movie/1639960
+A Letter to My Youth .Indonesia .Indonesian .Drama	`1https://vidfast.pro/movie/1602705
+Georgia Peach .English .Drama	`1https://vidfast.pro/movie/1645000
+The Infinite Husk .US .English .Drama .Sci-Fi	`1https://vidfast.pro/movie/1422033
+The Red Line .Thailand .Thai .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1630433
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
