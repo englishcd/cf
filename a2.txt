@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-21-26
+2026	^-22-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -243,5 +243,17 @@ A Letter to My Youth .Indonesia .Indonesian .Drama	`1https://vidfast.pro/movie/1
 Georgia Peach .English .Drama	`1https://vidfast.pro/movie/1645000
 The Infinite Husk .US .English .Drama .Sci-Fi	`1https://vidfast.pro/movie/1422033
 The Red Line .Thailand .Thai .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1630433
+Bird Names .Canada .English .Documentary	`1https://vidfast.pro/movie/1650473
+The Boy with My Son's Face .Canada .English .Drama .Thriller	`1https://vidfast.pro/movie/1643454
+Mo Gilligan: In the Moment .US .English .Comedy	`1https://vidfast.pro/movie/1616700
+Martin Luthur King Jr.: Enemies of the Dream .English .Documentary	`1https://vidfast.pro/movie/1654357
+Bruce Bruce: I Ain't Playin' .English .Comedy	`1https://vidfast.pro/movie/1633410
+Sommore: Chandelier Fly .English .Comedy	`1https://vidfast.pro/movie/1622032
+Tranquility: Aeterna .English .Drama .Mystery	`1https://vidfast.pro/movie/1658505
+Red Riding .UK .English .Horror .Thriller	`1https://vidfast.pro/movie/1323909
+Land Looters .French .Documentary	`1https://vidfast.pro/movie/1603750
+BTS: THE RETURN .US .Korean .Documentary .Music	`1https://vidfast.pro/movie/1628116
+Midwinter Break .UK .English .Drama	`1https://vidfast.pro/movie/1125701
+Two for Tee .Canada .English .Romance	`1https://vidfast.pro/movie/1628522
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
