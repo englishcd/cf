@@ -57,26 +57,38 @@ Misdirection .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1146344
 Kissing Is the Easy Part .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1515615
 Undertone .Canada .English .Horror .Mystery	`1https://vidfast.pro/movie/1480387
 They Will Kill You .US .English .Action .Comedy .Horror	`1https://vidfast.pro/movie/1292695
-The Confession	`1https://vidfast.pro/movie/1454741
-Solo Mio	`1https://vidfast.pro/movie/1291335
-Reminders of Him	`1https://vidfast.pro/movie/1367642
-Nirvanna the Band the Show the Movie	`1https://vidfast.pro/movie/1154538
-The Huntsman	`1https://vidfast.pro/movie/1288246
-Honey Bunch	`1https://vidfast.pro/movie/1339173
-Twisted	`1https://vidfast.pro/movie/1373198
-One Mile: Chapter Two	`1https://vidfast.pro/movie/1327690
-Katt Williams: The Last Report	`1https://vidfast.pro/movie/1628484
-Hellfire	`1https://vidfast.pro/movie/1088434
-The Morrigan	`1https://vidfast.pro/movie/1189885
-The Moment	`1https://vidfast.pro/movie/1422562
-How to Lose a Popularity Contest	`1https://vidfast.pro/movie/1480025
-F Valentine's Day	`1https://vidfast.pro/movie/1429605
-Redux Redux	`1https://vidfast.pro/movie/1340110
-This Is Not a Test	`1https://vidfast.pro/movie/1428990
-Kayla	`1https://vidfast.pro/movie/1614921
+The Confession .US .English .Horror	`1https://vidfast.pro/movie/1454741
+Solo Mio .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1291335
+Reminders of Him .US .English .Drama .Romance	`1https://vidfast.pro/movie/1367642
+Nirvanna the Band the Show the Movie .Canada .English .Adventure .Comedy .Sci-Fi	`1https://vidfast.pro/movie/1154538
+The Huntsman .English .Mystery .Thriller	`1https://vidfast.pro/movie/1288246
+Honey Bunch .Canada .English .Fantasy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1339173
+Twisted .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1373198
+One Mile: Chapter Two .US .English .Action .Crime	`1https://vidfast.pro/movie/1327690
+Katt Williams: The Last Report .US .English .Comedy	`1https://vidfast.pro/movie/1628484
+Hellfire .US .English .Action .Thriller	`1https://vidfast.pro/movie/1088434
+The Morrigan .UK .English .Horror	`1https://vidfast.pro/movie/1189885
+The Moment .US .English .Comedy .Music	`1https://vidfast.pro/movie/1422562
+How to Lose a Popularity Contest .Canada .English .Comedy .Romance	`1https://vidfast.pro/movie/1480025
+F Valentine's Day .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1429605
+Redux Redux .US .English .Action .Drama .Horror	`1https://vidfast.pro/movie/1340110
+This Is Not a Test .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1428990
 Hannah Montana 20th Anniversary Special .US .English .Documentary .Family .Music	`1https://vidfast.pro/movie/1637319
+Kayla .US .English .Drama .Romance .Thriller	`1https://vidfast.pro/movie/1614921
 The Internship .English .Action	`1https://vidfast.pro/movie/1584215
 Grizzly Night .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1249508
+Forbidden Fruits .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1450527
 Dolly .US .English .Horror	`1https://vidfast.pro/movie/1309083
+The Art of Telling Lies .Canada .English .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1197239
+The Grieving .Italy .English .Horror .Thriller	`1https://vidfast.pro/movie/1528625
+Marcello Hernández: American Boy .US .English .Comedy	`1https://vidfast.pro/movie/1599078
+Relationship Goals .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1433842
+Slanted .US .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1297446
+The Rajasaab .India .Telugu .Comedy .Fantasy .Horror	`1https://vidfast.pro/movie/1022453
+One Last Adventure: The Making of Stranger Things 5 .US .English .Documentary	`1https://vidfast.pro/movie/1610413
+The Wilderness Tapes: Volume One .English .Horror	`1https://vidfast.pro/movie/1606669
+The Investigation of Lucy Letby .UK .English .Crime .Documentary	`1https://vidfast.pro/movie/1620991
+The Darkest Web .UK .English .Documentary	`1https://vidfast.pro/movie/1620814
+He's Watching You .US .English .Horror	`1https://vidfast.pro/movie/1370424
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
