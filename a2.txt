@@ -90,5 +90,29 @@ The Wilderness Tapes: Volume One .English .Horror	`1https://vidfast.pro/movie/16
 The Investigation of Lucy Letby .UK .English .Crime .Documentary	`1https://vidfast.pro/movie/1620991
 The Darkest Web .UK .English .Documentary	`1https://vidfast.pro/movie/1620814
 He's Watching You .US .English .Horror	`1https://vidfast.pro/movie/1370424
+Taylor Tomlinson: Prodigal Daughter .US .English .Comedy	`1https://vidfast.pro/movie/1617908
+The Shelter .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1271315
+Terri Joe: Missionary in Miami .US .English .Comedy	`1https://vidfast.pro/movie/1600513
+Black Goat .UK .English .Horror	`1https://vidfast.pro/movie/1537268
+Bodycam .Canada .English .Horror	`1https://vidfast.pro/movie/1510745
+Deb is Boss .US .English .Drama	`1https://vidfast.pro/movie/1634159
+OBEX .US .English .Adventure .Fantasy .Horror	`1https://vidfast.pro/movie/1212461
+Reckless .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1449400
+Insidious Tales .English .Horror	`1https://vidfast.pro/movie/1633832
+Subedaar .India .Hindi .Action .Crime .Drama 	`1https://vidfast.pro/movie/
+Queen of Chess .US .English .Documentary 	`1https://vidfast.pro/movie/1596291
+Meal Ticket .US .English .Documentary	`1https://vidfast.pro/movie/1649758
+Accused: The Karen Read Story .Canada .English .Drama .Mystery	`1https://vidfast.pro/movie/1606410
+Love on the Amazon .Canada .English .Drama .Romance	`1https://vidfast.pro/movie/1592734
+The Fairfield County Four .US .English .Horror .Mystery .Thriller	`1https://vidfast.pro/movie/1388771
+Accused .India .Hindi .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1389149
+Beneath the Light .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1564449
+Yoh! Bestie .South Africa .English .Comedy .Romance	`1https://vidfast.pro/movie/1618945
+Wild London .UK .English .Documentary	`1https://vidfast.pro/movie/1604628
+The Abnormal Beauty Company .Canada .English .Documentary	`1https://vidfast.pro/movie/1291601
+Anaconda: Blood Coil .UK .English .Horror	`1https://vidfast.pro/movie/1559628
+Vanished in an Instant .Canada .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1517865
+Dracula in Space .UK .English .Horror	`1https://vidfast.pro/movie/1559637
+Kidnapped: Elizabeth Smart .US .English .Crime .Documentary	`1https://vidfast.pro/movie/1595481
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
