@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-17-26
+2026	^-20-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -219,5 +219,17 @@ Fabian and the Deadly Wedding .Germany .German .Comedy .Crime .Mystery	`1https:/
 Chatha Pacha: The Ring of Rowdies .India .Malayalam .Action .Drama	`1https://vidfast.pro/movie/1439594
 Romance at Hope Ranch .English .Romance	`1https://vidfast.pro/movie/1608620
 The Alice Paradox .UK .English .Drama .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1614487
+Little Flowers .English .Romance	`1https://vidfast.pro/movie/1657363
+Billy Idol Should Be Dead .US .English .Documentary .Music	`1https://vidfast.pro/movie/1465591
+The Well .Canada .English .Drama .Thriller	`1https://vidfast.pro/movie/1202549
+The Couple Across the Street .Canada .English .Drama .Thriller	`1https://vidfast.pro/movie/1643438
+Nari Nari Naduma Murari .India .Telugu .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1417849
+Finding Harmony: A King's Vision .UK .English .Documentary	`1https://vidfast.pro/movie/1559456
+Kill Will .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1546319
+Disneyland Handcrafted .US .English .Documentary	`1https://vidfast.pro/movie/1538718
+The Virgin of the Quarry Lake .Argentina .Spanish .Drama .Horror .Thriller	`1https://vidfast.pro/movie/862739
+He Killed My Sister .US .English .Thriller	`1https://vidfast.pro/movie/1613175
+Starbright .US .English .Action .Adventure	`1https://vidfast.pro/movie/662707
+Strangers in the Park .Argentina .Spanish .Comedy .Drama	`1https://vidfast.pro/movie/1631485
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
