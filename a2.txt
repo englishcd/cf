@@ -114,5 +114,27 @@ Anaconda: Blood Coil .UK .English .Horror	`1https://vidfast.pro/movie/1559628
 Vanished in an Instant .Canada .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1517865
 Dracula in Space .UK .English .Horror	`1https://vidfast.pro/movie/1559637
 Kidnapped: Elizabeth Smart .US .English .Crime .Documentary	`1https://vidfast.pro/movie/1595481
+Fukushima: A Nuclear Nightmare .UK .English .Documentary .Drama .History	`1https://vidfast.pro/movie/1439660
+Protector .US .English .Action .Thriller	`1https://vidfast.pro/movie/1383731
+EPiC: Elvis Presley in Concert .US .English .Documentary .Music	`1https://vidfast.pro/movie/1445363
+I Am Mary Jo Buttafuoco .Canada .English .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1617433
+Chef’s Kiss .English .Comedy .Romance	`1https://vidfast.pro/movie/1623007
+Psycho Killer .US .English .Crime .Horror .Mystery	`1https://vidfast.pro/movie/1107166
+Dolphin Summer .US .English .Adventure .Family	`1https://vidfast.pro/movie/1508779
+Chernobyl: 48 Hours To Escape .UK .English .Documentary .Drama .History	`1https://vidfast.pro/movie/1655751
+Wardriver .US .English .Crime .Thriller	`1https://vidfast.pro/movie/938150
+Double Double Trouble .English .Thriller	`1https://vidfast.pro/movie/1633107
+Speed Faster .English .Action .Thriller	`1https://vidfast.pro/movie/1617852
+Mike Epps: Delusional .US .English .Comedy	`1https://vidfast.pro/movie/1599087
+Caitlin Hanna: Trafficked in Belfast .Ireland .English .Documentary	`1https://vidfast.pro/movie/1629815
+Man on the Run .UK .English .Documentary .Music	`1https://vidfast.pro/movie/1260643
+Cosmic Princess Kaguya! .Japan .Japanese .Animation .Fantasy .Music	`1https://vidfast.pro/movie/1575337
+The Calling Witch .English .Drama .Horror .Thriller	`1https://vidfast.pro/movie/1475490
+The Dutchman .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1180417
+Death Name .English .Drama .Horror	`1https://vidfast.pro/movie/1471317
+The Drift .Finland .English .Drama .Thriller	`1https://vidfast.pro/movie/1424965
+The Stars Between Us .English .Romance	`1https://vidfast.pro/movie/1608619
+Furious Attack .Mandarin .Action .Crime  Thriller	`1https://vidfast.pro/movie/1592032
+Ghost Elephants .US .English .Documentary	`1https://vidfast.pro/movie/1451867
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
