@@ -148,5 +148,17 @@ Trial Period .Ukraine .Ukrainian .Comedy	`1https://vidfast.pro/movie/1541434
 Pavane .South Korea .Korean .Drama .Romance	`1https://vidfast.pro/movie/1268609
 Pushed Off a Plane and Survived .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1642210
 Mars .US .English .Animation .Comedy .Sci-Fi	`1https://vidfast.pro/movie/916588
+Be Happy .English .Drama .Romance	`1https://vidfast.pro/movie/1611212
+Border 2 .India .Hindi .Action .Drama .War	`1https://vidfast.pro/movie/1213898
+I Was a Stranger .Jordan .Arabic .Drama .Thriller	`1https://vidfast.pro/movie/1193128
+In Cold Light .Canada .English .Crime .Thriller	`1https://vidfast.pro/movie/1128377
+Ted Bunny .US .English .Horror	`1https://vidfast.pro/movie/1588101
+Made in Korea .India .Tamil .Drama	`1https://vidfast.pro/movie/1561687
+Ikkis .India .Hindi .Drama .History .War	`1https://vidfast.pro/movie/1196946
+Diabolical - The Epstein Files .Australia .English .Crime .Documentary .Drama	`1https://vidfast.pro/movie/1640697
+Skyscraper Live .US .English .Adventure	`1https://vidfast.pro/movie/1599090
+The Way to You .English .Romance	`1https://vidfast.pro/movie/1608615
+Caught Slippin .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1636217
+Capture .English .Horror	`1https://vidfast.pro/movie/1646950
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
