@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-
+2026	^-15-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -160,5 +160,28 @@ Skyscraper Live .US .English .Adventure	`1https://vidfast.pro/movie/1599090
 The Way to You .English .Romance	`1https://vidfast.pro/movie/1608615
 Caught Slippin .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1636217
 Capture .English .Horror	`1https://vidfast.pro/movie/1646950
+The Man in the Window .US .English .Mystery .Thriller	`1https://vidfast.pro/movie/1495473
+Vampire Zombies...from Space! .Canada .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1174240
+The Dating App Killer: The Monica White Story .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1625901
+Storm Rider: Legend of Hammerhead .Croatia .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/874860
+The Swedish Connection .Sweden .Swedish .Drama .History .War	`1https://vidfast.pro/movie/1261188
+Sheepdog .US .English .Drama	`1https://vidfast.pro/movie/1359462
+Bulls .US .English .Comedy	`1https://vidfast.pro/movie/1480860
+The Flesh People .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1646413
+Mountain King .US .English .Comedy .Fantasy .Horror	`1https://vidfast.pro/movie/1565990
+Life Is a Beautiful Game .Lithuania .Lithuanian .Documentary	`1https://vidfast.pro/movie/1645353
+Terry McMillan Presents: Tempted 2 Love .English .Drama .Romance	`1https://vidfast.pro/movie/1619322
+Chris Spencer: GOAT Adjacent .US .English .Comedy	`1https://vidfast.pro/movie/1623564
+When We Get There .US .English .Comedy .Drama	`1https://vidfast.pro/movie/1101644
+Lazarus: The Awakening .US .English .Action .Crime .Fantasy	`1https://vidfast.pro/movie/1617412
+The Match That Changed Tennis .English .Documentary	`1https://vidfast.pro/movie/1621024
+Murder in the Highland Manor .UK .English .Mystery .Thriller	`1https://vidfast.pro/movie/1642494
+From the Ashes: The Pit .Saudi Arabia .Arabic .Drama .Thriller	`1https://vidfast.pro/movie/1608982
+The House on Haunted Grounds .English .Horror	`1https://vidfast.pro/movie/1610418
+A Super Progressive Movie .Australia .English .Animation .Comedy	`1https://vidfast.pro/movie/1585580
+Mexicali .US .English .Action .Drama	`1https://vidfast.pro/movie/1636891
+Dream Team .Czech Republic .Czech .Comedy	`1https://vidfast.pro/movie/1573810
+Chris Fleming: Live at The Palace .US .English .Comedy	`1https://vidfast.pro/movie/1632879
+This Is I .Japan .Japanese .Drama .Music	`1https://vidfast.pro/movie/1570282
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
