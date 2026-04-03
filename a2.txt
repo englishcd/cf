@@ -4,12 +4,12 @@
 ^=Blank	
 ^=	^-
 
-[g]{s} Ⓧa2 eXtra 🆔[z]	^-
+[g]{s} Ⓧa2 eXtra Movies/Films[z]	^-
 
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-15-26
+2026	^-16-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -183,5 +183,29 @@ Mexicali .US .English .Action .Drama	`1https://vidfast.pro/movie/1636891
 Dream Team .Czech Republic .Czech .Comedy	`1https://vidfast.pro/movie/1573810
 Chris Fleming: Live at The Palace .US .English .Comedy	`1https://vidfast.pro/movie/1632879
 This Is I .Japan .Japanese .Drama .Music	`1https://vidfast.pro/movie/1570282
+A Gangster's Life .UK .English .Comedy .Crime	`1https://vidfast.pro/movie/1591654
+Bring the Law .US .English .Action .Thriller	`1https://vidfast.pro/movie/1270041
+Mark Normand: None Too Pleased .US .English .Comedy	`1https://vidfast.pro/movie/1641817
+Molly vs. THE MACHINES .UK .English .Documentary	`1https://vidfast.pro/movie/1557606
+267 .English .Drama	`1https://vidfast.pro/movie/1622226
+Refuge .English .Thriller	`1https://vidfast.pro/movie/1643294
+ToxiCity .English .Drama	`1https://vidfast.pro/movie/1247993
+Black Men Don't Cheat 3: Outplayed .English .Drama	`1https://vidfast.pro/movie/1656640
+TWIN .US .English .Thriller	`1https://vidfast.pro/movie/1612434
+Ainsley McGregor Mysteries: A Case For the Watchmaker .US .English .Drama .Mystery	`1https://vidfast.pro/movie/1597608
+Borderlands Jaguar .English .Documentary	`1https://vidfast.pro/movie/1621384
+Cheetahs Up Close with Bertie Gregory .US .English .Documentary	`1https://vidfast.pro/movie/1601082
+The Big Fat Quiz of Telly .UK .English .Comedy	`1https://vidfast.pro/movie/1613425
+Be My Valentine .English .Horror	`1https://vidfast.pro/movie/1615605
+My Sister's Bones .English .Drama .Thriller	`1https://vidfast.pro/movie/1215919
+Because of Cupid .Canada .English .Romance	`1https://vidfast.pro/movie/1608616
+Sugar & Vice: A Hannah Swensen Mystery .Canada .English .Mystery	`1https://vidfast.pro/movie/1627985
+BTS THE COMEBACK LIVE | ARIRANG .UK .Korean .Music	`1https://vidfast.pro/movie/1628123
+Street Flow 3 .France .French .Drama	`1https://vidfast.pro/movie/1629382
+Our Dead Husband .US .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1624096
+Jackie Fabulous: You Can Leave .English .Comedy	`1https://vidfast.pro/movie/1623569
+Operation Taco Gary's .US .English .Action .Comedy .Sci-Fi	`1https://vidfast.pro/movie/1130875
+New Jersey Devil .US .English .Horror .Mystery	`1https://vidfast.pro/movie/1520453
+Cursed Hearse .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1649529
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
