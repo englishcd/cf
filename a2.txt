@@ -9,7 +9,7 @@
 	^-
 [y]Movies/Films with Multi Subtitles[z]	^-
 
-2026	^-22-26
+2026	^-26
 Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
 Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
@@ -255,5 +255,65 @@ Land Looters .French .Documentary	`1https://vidfast.pro/movie/1603750
 BTS: THE RETURN .US .Korean .Documentary .Music	`1https://vidfast.pro/movie/1628116
 Midwinter Break .UK .English .Drama	`1https://vidfast.pro/movie/1125701
 Two for Tee .Canada .English .Romance	`1https://vidfast.pro/movie/1628522
+My Mystery Romance .English .Romance	`1https://vidfast.pro/movie/1635337
+One Night Out with Alan Cumming .English .Comedy	`1https://vidfast.pro/movie/1643104
+The Forgotten Occupation: Jim Crow Goes to Haiti .English .Documentary .History	`1https://vidfast.pro/movie/1527664
+Confessions of a Female Serial Killer .UK .English .Crime .Documentary	`1https://vidfast.pro/movie/1643466
+Crossing the Equator .Australia .English .Documentary	`1https://vidfast.pro/movie/1621265
+Vaa Vaathiyaar .India .Tamil .Action .Comedy .Romance	`1https://vidfast.pro/movie/1112564
+How to Sleep Better .English .Documentary	`1https://vidfast.pro/movie/1637484
+Vanaveera . India .Telugu .Action .Drama	`1https://vidfast.pro/movie/1588621
+LS Lowry: The Unheard Tapes .UK .English .Documentary	`1https://vidfast.pro/movie/1642991
+The Aryan Papers .UK .English .Adventure .History .War	`1https://vidfast.pro/movie/1555895
+A Royal Setting .Canada .English .Drama .Romance	`1https://vidfast.pro/movie/1628524
+Harry Styles. One Night in Manchester .UK .English .Music	`1https://vidfast.pro/movie/1644807
+Sugar .South Korea .Korean .Drama	`1https://vidfast.pro/movie/1325556
+Follies .Canada .French .Comedy .Romance	`1https://vidfast.pro/movie/1403189
+Mother's Pride .UK .English .Comedy .Drama	`1https://vidfast.pro/movie/1418901
+Who Could Kill a Sweet Old Lady .US .English .Thriller	`1https://vidfast.pro/movie/1653844
+Barbara – Becoming Shirin David .Germany .German .Documentary	`1https://vidfast.pro/movie/1649887
+Oh Mom! .Ukraine .Ukrainian .Comedy .Family	`1https://vidfast.pro/movie/1518998
+THE SAMCA FILE .Romanian .Mystery .Thriller	`1https://vidfast.pro/movie/1616741
+Amityvillenado .English .Comedy .Horror	`1https://vidfast.pro/movie/1247729
+Bad Voodoo .US .English .Horror	`1https://vidfast.pro/movie/1630440
+Funky .India .Telugu .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1403737
+Skate to Hell .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1301270
+Jeff Ross: Take a Banana for the Ride .English .Comedy	`1https://vidfast.pro/movie/1555160
+Love At Last .Turkey .Turkish .Comedy .Romance	`1https://vidfast.pro/movie/1582328
+The Game of Life .English .Drama .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1654965
+Fourth Floor .India .Tamil .Horror .Thriller	`1https://vidfast.pro/movie/1641315
+Yogida .India .Tamil .Action .Thriller	`1https://vidfast.pro/movie/1628578
+Blessings in Disguise .US .English .Drama .Romance	`1https://vidfast.pro/movie/1640299
+Derrick Stroup: Nostalgic .English .Comedy	`1https://vidfast.pro/movie/1649249
+My Friend An Delie .China .Mandarin .Drama	`1https://vidfast.pro/movie/1249173
+Cecil .UK .English .Crime .Documentary	`1https://vidfast.pro/movie/1632407
+Guy Martin's House Without Bills .UK .English .Documentary	`1https://vidfast.pro/movie/1634541
+Rivals: The 4 Nations Face-Off .English .Documentary	`1https://vidfast.pro/movie/1629292
+Annihilator Unleashed .English .Action	`1https://vidfast.pro/movie/1597017
+53 Sundays .Spain .Spanish .Comedy .Drama	`1https://vidfast.pro/movie/1276704
+Busted Water Pipes .China .Mandarin .Comedy .Crime	`1https://vidfast.pro/movie/1537690
+Gonzaga: The Slipper Still Fits .US .English .Documentary	`1https://vidfast.pro/movie/1642685
+Take Off .China .Mandarin .Comedy .Drama	`1https://vidfast.pro/movie/1411529
+Picture Perfect Sister-in-Law .US .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1547656
+Every Dog Has Its Day .China .Mandarin .Comedy .Drama	`1https://vidfast.pro/movie/1443959
+Quakeasaurus .US .English .Horror	`1https://vidfast.pro/movie/1143801
+Un weekend criminal .Romania .Romanian .Comedy	`1https://vidfast.pro/movie/1615575
+Aaron Chen: Funny Garden .English .Comedy	`1https://vidfast.pro/movie/1660968
+Eat Pray Bark .Germany .German .Comedy	`1https://vidfast.pro/movie/1635276
+Masthishka Maranam .India .Malayalam .Comedy .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1444032
+Rory McIlroy: The Masters Wait .US .English .Documentary	`1https://vidfast.pro/movie/1646341
+Color Theories by Julio Torres. A Guide to Seeing the World .US .English .Comedy	`1https://vidfast.pro/movie/1573688
+Bulk .English .Action .Sci-Fi	`1https://vidfast.pro/movie/1478289
+Evolver 62 .English .Documentary .Music	`1https://vidfast.pro/movie/1630968
+The Giant Falls .Argentina .Spanish .Drama	`1https://vidfast.pro/movie/1487320
+Pilar's Diary in the Amazon .Brazil .Portuguese .Adventure	`1https://vidfast.pro/movie/1135423
+^=.Avengers: Doomsday .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/1003596
+^=.Return of the Living Dead .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1170600
+^=.Miami Nights .Action .Crime .Thriller	`1https://vidfast.pro/movie/1579111
+^=.Disclosure Day .Sci-Fi	`1https://vidfast.pro/movie/1275779
+^=.Sleepwalker .Thriller	`1https://vidfast.pro/movie/1432306
+^=.Oscar Shaw .Action .Crime .Drama	`1https://vidfast.pro/movie/1601243
+^=..Looking for Mr Right .Crime .Drama	`1https://vidfast.pro/movie/
+^=..Delta Protocol .Action .Mystery .Thriller	`1https://vidfast.pro/movie/
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
