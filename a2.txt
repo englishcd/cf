@@ -353,7 +353,19 @@ Five Nights at Freddy's 2 .US .English .Horror .Mystery .Thriller	`1https://vidf
 TRON: Ares .US .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/533533
 Until Dawn .US .English .Drama .Horror	`1https://vidfast.pro/movie/1232546
 The Long Walk .US .English .Thriller	`1https://vidfast.pro/movie/604079
+The Amateur .US .English .Action .Thriller	`1https://vidfast.pro/movie/1087891
+Companion .US .English .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1084199
+Nobody 2 .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1007734
+Karate Kid: Legends .US .English .Action .Drama .Family	`1https://vidfast.pro/movie/1011477
+Frankenstein .Drama .Horror .Sci-Fi	`1https://vidfast.pro/movie/1062722
+Anaconda .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/1234731
+The Naked Gun .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1035259
+Wake Up Dead Man: A Knives Out Mystery .US .English .Comedy .Crime .Drama	`1https://vidfast.pro/movie/812583
+Chainsaw Man - The Movie: Reze Arc .Japan .Japanese .Action .Adventure .Animation	`1https://vidfast.pro/movie/1218925
+Wicked: For Good .US .English .Family .Fantasy .Musical	`1https://vidfast.pro/movie/967941
+Bugonia .Greece .English .Comedy .Crime .Sci-Fi	`1https://vidfast.pro/movie/701387
+Predator: Killer of Killers .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/1376434
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-4-225
+2025^-5-225
