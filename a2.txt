@@ -329,5 +329,31 @@ Final Destination Bloodlines .US .English .Horror	`1https://vidfast.pro/movie/57
 Weapons .US .English .Horror .Mystery	`1https://vidfast.pro/movie/1078605
 F1 The Movie .US .English .Action .Drama .Sport	`1https://vidfast.pro/movie/911430
 The Fantastic Four: First Steps .US .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/617126
+Captain America: Brave New World .US .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/822119
+The Housemaid .US .English .Thriller	`1https://vidfast.pro/movie/1368166
+One Battle After Another .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1054867
+Jurassic World Rebirth .US .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/1234821
+From the World of John Wick: Ballerina .US .English .Action .Thriller	`1https://vidfast.pro/movie/541671
+Mission: Impossible - The Final Reckoning .US .English .Action .Adventure .Thriller	`1https://vidfast.pro/movie/575265
+The Gorge .US .English .Action .Adventure .Horror	`1https://vidfast.pro/movie/950396
+Mickey 17 .UK .English .Adventure .Comedy .Fantasy	`1https://vidfast.pro/movie/696506
+28 Years Later .UK .English .Horror .Thriller	`1https://vidfast.pro/movie/1100988
+How to Train Your Dragon .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/1087192
+Marty Supreme .US .English .Drama .Sport	`1https://vidfast.pro/movie/1317288
+A Working Man .UK .English .Action .Thriller	`1https://vidfast.pro/movie/1197306
+The Accountant 2 .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/870028
+The Conjuring: Last Rites .US .English .Horror .Mystery .Thriller	`1https://vidfast.pro/movie/1038392
+Now You See Me: Now You Don't .US .English .Crime .Thriller	`1https://vidfast.pro/movie/425274
+The Running Man .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/798645
+KPop Demon Hunters .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/803796
+Lilo & Stitch .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/552524
+Novocaine .US .English .Action .Comedy .Thriller	`1https://vidfast.pro/movie/1195506
+Warfare .UK .English .Action .Drama .War	`1https://vidfast.pro/movie/1241436
+Five Nights at Freddy's 2 .US .English .Horror .Mystery .Thriller	`1https://vidfast.pro/movie/1228246
+TRON: Ares .US .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/533533
+Until Dawn .US .English .Drama .Horror	`1https://vidfast.pro/movie/1232546
+The Long Walk .US .English .Thriller	`1https://vidfast.pro/movie/604079
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
+
+2025^-4-225
