@@ -377,7 +377,19 @@ Fountain of Youth .US .English .Action .Adventure .Fantasy	`1https://vidfast.pro
 Black Bag .US .English .Drama .Romance .Thriller	`1https://vidfast.pro/movie/1233575
 The Bad Guys 2 .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/1175942
 Flight Risk .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1126166
+Death of a Unicorn .US .English .Comedy .Fantasy .Horror	`1https://vidfast.pro/movie/1153714
+Together .US .English .Horror .Romance	`1https://vidfast.pro/movie/1242011
+Havoc .UK .English .Action .Crime .Drama	`1https://vidfast.pro/movie/668489
+Heads of State .US .English .Action .Thriller	`1https://vidfast.pro/movie/749170
+Dracula .France .French .Fantasy .Horror .Romance	`1https://vidfast.pro/movie/1246049
+Happy Gilmore 2 .US .English .Comedy .Sport	`1https://vidfast.pro/movie/1263256
+The Shadow's Edge .China .Mandarin .Action .Crime .Drama	`1https://vidfast.pro/movie/1419406
+Roofman .US .English .Biography .Crime .Drama	`1https://vidfast.pro/movie/1242419
+Play Dirty .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/941109
+Materialists .Finland .English .Comedy .Romance	`1https://vidfast.pro/movie/1136867
+The Electric State .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/777443
+Sisu: Road to Revenge .Finland .Finnish .Action .War	`1https://vidfast.pro/movie/1223601
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-6-225
+2025^-7-225
