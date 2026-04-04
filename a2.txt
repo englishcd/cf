@@ -307,12 +307,12 @@ Bulk .English .Action .Sci-Fi	`1https://vidfast.pro/movie/1478289
 Evolver 62 .English .Documentary .Music	`1https://vidfast.pro/movie/1630968
 The Giant Falls .Argentina .Spanish .Drama	`1https://vidfast.pro/movie/1487320
 Pilar's Diary in the Amazon .Brazil .Portuguese .Adventure	`1https://vidfast.pro/movie/1135423
+Sleepwalker .Thriller	`1https://vidfast.pro/movie/1432306
+Oscar Shaw .Action .Crime .Drama	`1https://vidfast.pro/movie/1601243
+^=.Disclosure Day .Sci-Fi	`1https://vidfast.pro/movie/1275779
 ^=.Avengers: Doomsday .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/1003596
 ^=.Return of the Living Dead .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1170600
 ^=.Miami Nights .Action .Crime .Thriller	`1https://vidfast.pro/movie/1579111
-^=.Disclosure Day .Sci-Fi	`1https://vidfast.pro/movie/1275779
-^=.Sleepwalker .Thriller	`1https://vidfast.pro/movie/1432306
-^=.Oscar Shaw .Action .Crime .Drama	`1https://vidfast.pro/movie/1601243
 ^=..Looking for Mr Right .Crime .Drama	`1https://vidfast.pro/movie/
 ^=..Delta Protocol .Action .Mystery .Thriller	`1https://vidfast.pro/movie/
 
@@ -365,7 +365,19 @@ Chainsaw Man - The Movie: Reze Arc .Japan .Japanese .Action .Adventure .Animatio
 Wicked: For Good .US .English .Family .Fantasy .Musical	`1https://vidfast.pro/movie/967941
 Bugonia .Greece .English .Comedy .Crime .Sci-Fi	`1https://vidfast.pro/movie/701387
 Predator: Killer of Killers .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/1376434
+Den of Thieves 2: Pantera .Canada .English .Action .Crime .Drama	`1https://vidfast.pro/movie/604685
+Hamnet .UK .English .Biography .Drama .History	`1https://vidfast.pro/movie/858024
+Black Phone 2 .US .English .Horror	`1https://vidfast.pro/movie/1197137
+Bring Her Back .Australia .English .Horror .Mystery	`1https://vidfast.pro/movie/1151031
+The Monkey .Canada .English .Horror	`1https://vidfast.pro/movie/1124620
+Snow White .US .English .Adventure .Family .Fantasy	`1https://vidfast.pro/movie/447273
+M3GAN 2.0 .US .English .Action .Horror .Sci-Fi	`1https://vidfast.pro/movie/1071585
+Wolf Man .US .English .Horror	`1https://vidfast.pro/movie/710295
+Fountain of Youth .US .English .Action .Adventure .Fantasy	`1https://vidfast.pro/movie/1098006
+Black Bag .US .English .Drama .Romance .Thriller	`1https://vidfast.pro/movie/1233575
+The Bad Guys 2 .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/1175942
+Flight Risk .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1126166
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-5-225
+2025^-6-225
