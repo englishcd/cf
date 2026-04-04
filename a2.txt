@@ -389,7 +389,31 @@ Play Dirty .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/941109
 Materialists .Finland .English .Comedy .Romance	`1https://vidfast.pro/movie/1136867
 The Electric State .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/777443
 Sisu: Road to Revenge .Finland .Finnish .Action .War	`1https://vidfast.pro/movie/1223601
+War of the Worlds .US .English .Adventure .Drama .Horror	`1https://vidfast.pro/movie/755898
+In the Lost Lands .Germany .English .Action .Adventure .Fantasy	`1https://vidfast.pro/movie/324544
+The Old Guard 2 .US .English .Action .Adventure .Fantasy	`1https://vidfast.pro/movie/846422
+Elio .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/1022787
+Drop .US .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1249213
+Heart Eyes .US .English .Comedy .Horror .Mystery	`1https://vidfast.pro/movie/1302916
+I Know What You Did Last Summer .US .English .Horror	`1https://vidfast.pro/movie/1083433
+Eternity .US .English .Comedy .Drama .Fantasy	`1https://vidfast.pro/movie/1259102
+Nuremberg .US .English .Biography .Drama .History	`1https://vidfast.pro/movie/1214931
+The Phoenician Scheme .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1137350
+Cleaner .UK .English .Action .Drama .Thriller	`1https://vidfast.pro/movie/1125899
+Back in Action .US .English .Action .Comedy	`1https://vidfast.pro/movie/993710
+Good Fortune .US .English .Action .Comedy .Fantasy	`1https://vidfast.pro/movie/1114967
+The SpongeBob Movie: Search for SquarePants .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/991494
+Ne Zha 2 .China .Mandarin .Action .Adventure .Animation	`1https://vidfast.pro/movie/980477
+The Tank .Germany .German .Action .Drama .Thriller	`1https://vidfast.pro/movie/1252037
+Eddington .US .English .Comedy .Drama .Western	`1https://vidfast.pro/movie/648878
+Primitive War .Australia .English .Action .Horror .Sci-Fi	`1https://vidfast.pro/movie/1257009
+Dangerous Animals .Australia .English .Horror .Thriller	`1https://vidfast.pro/movie/1285965
+The Family Plan 2 .US .English .Action .Comedy .Family	`1https://vidfast.pro/movie/1363123
+Ash .Finland .English .Horror .Sci-Fi .Thriller	`1https://vidfast.pro/movie/931349
+Last Breath .UK .English .Drama .Thriller	`1https://vidfast.pro/movie/972533
+Exterritorial .Germany .German .Action .Mystery .Thriller	`1https://vidfast.pro/movie/1233069
+Rental Family .US .English .Comedy .Drama	`1https://vidfast.pro/movie/1208348
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-7-225
+2025^-9-225
