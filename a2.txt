@@ -413,7 +413,19 @@ Ash .Finland .English .Horror .Sci-Fi .Thriller	`1https://vidfast.pro/movie/9313
 Last Breath .UK .English .Drama .Thriller	`1https://vidfast.pro/movie/972533
 Exterritorial .Germany .German .Action .Mystery .Thriller	`1https://vidfast.pro/movie/1233069
 Rental Family .US .English .Comedy .Drama	`1https://vidfast.pro/movie/1208348
+HIM .US .English .Horror .Sport	`1https://vidfast.pro/movie/986097
+Playdate .US .English .Action .Comedy	`1https://vidfast.pro/movie/1248226
+Die My Love .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1033148
+No Other Choice .South Korea .Korean .Comedy .Crime .Drama	`1https://vidfast.pro/movie/639988
+The Smashing Machine .US .English .Action .Biography .Drama	`1https://vidfast.pro/movie/760329
+My Fault: London .Spain .English .Drama	`1https://vidfast.pro/movie/1294203
+Ice Road: Vengeance .US .English .Action	`1https://vidfast.pro/movie/1119878
+The Woman in the Yard .US .English .Drama .Horror .Thriller	`1https://vidfast.pro/movie/1244944
+Dhurandhar .India .Hindi .Action .Thriller	`1https://vidfast.pro/movie/1291608
+Caught Stealing .US .English .Comedy .Crime .Thriller	`1https://vidfast.pro/movie/1245993
+One of Them Days .US .English .Comedy	`1https://vidfast.pro/movie/1280672
+Highest 2 Lowest .US .English .Crime .Drama .Mystery	`1https://vidfast.pro/movie/1242434
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-9-225
+2025^-10-225
