@@ -296,7 +296,6 @@ Gonzaga: The Slipper Still Fits .US .English .Documentary	`1https://vidfast.pro/
 Take Off .China .Mandarin .Comedy .Drama	`1https://vidfast.pro/movie/1411529
 Picture Perfect Sister-in-Law .US .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1547656
 Every Dog Has Its Day .China .Mandarin .Comedy .Drama	`1https://vidfast.pro/movie/1443959
-Quakeasaurus .US .English .Horror	`1https://vidfast.pro/movie/1143801
 Un weekend criminal .Romania .Romanian .Comedy	`1https://vidfast.pro/movie/1615575
 Aaron Chen: Funny Garden .English .Comedy	`1https://vidfast.pro/movie/1660968
 Eat Pray Bark .Germany .German .Comedy	`1https://vidfast.pro/movie/1635276
@@ -304,12 +303,13 @@ Masthishka Maranam .India .Malayalam .Comedy .Sci-Fi .Thriller	`1https://vidfast
 Rory McIlroy: The Masters Wait .US .English .Documentary	`1https://vidfast.pro/movie/1646341
 Color Theories by Julio Torres. A Guide to Seeing the World .US .English .Comedy	`1https://vidfast.pro/movie/1573688
 Bulk .English .Action .Sci-Fi	`1https://vidfast.pro/movie/1478289
-Evolver 62 .English .Documentary .Music	`1https://vidfast.pro/movie/1630968
 The Giant Falls .Argentina .Spanish .Drama	`1https://vidfast.pro/movie/1487320
-Pilar's Diary in the Amazon .Brazil .Portuguese .Adventure	`1https://vidfast.pro/movie/1135423
 Sleepwalker .Thriller	`1https://vidfast.pro/movie/1432306
 Oscar Shaw .Action .Crime .Drama	`1https://vidfast.pro/movie/1601243
 ^=.Disclosure Day .Sci-Fi	`1https://vidfast.pro/movie/1275779
+^=.Quakeasaurus .US .English .Horror	`1https://vidfast.pro/movie/1143801
+^=.Evolver 62 .English .Documentary .Music	`1https://vidfast.pro/movie/1630968
+^=.Pilar's Diary in the Amazon .Brazil .Portuguese .Adventure	`1https://vidfast.pro/movie/1135423
 ^=.Avengers: Doomsday .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/1003596
 ^=.Return of the Living Dead .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1170600
 ^=.Miami Nights .Action .Crime .Thriller	`1https://vidfast.pro/movie/1579111
