@@ -449,7 +449,19 @@ The Strangers: Chapter 2 .UK .English .Horror .Mystery	`1https://vidfast.pro/mov
 Locked .US .English .Thriller	`1https://vidfast.pro/movie/1083968
 Keeper .Canada .English .Horror	`1https://vidfast.pro/movie/1288072
 Deep Cover .UK .English .Action .Comedy  Crime	`1https://vidfast.pro/movie/1239193
+Love Hurts .US .English .Action .Comedy	`1https://vidfast.pro/movie/1226406
+The Great Flood .South Korea .Korean .Action .Adventure .Drama	`1https://vidfast.pro/movie/982843
+Demon City .Japan .Japanese .Action .Adventure .Crime	`1https://vidfast.pro/movie/1405338
+Train Dreams .US .English .Drama	`1https://vidfast.pro/movie/1241983
+Holland .UK .English .Thriller	`1https://vidfast.pro/movie/257094
+Bridget Jones: Mad About the Boy .UK .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1272149
+The Life List .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1254786
+Our Fault .Spain .Spanish .Romance	`1https://vidfast.pro/movie/1156594
+After the Hunt .Italy .English .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1265063
+The Woman in Cabin 10 .US .English .Drama .Mystery .Thriller	`1https://vidfast.pro/movie/1290879
+My Oxford Year .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1307078
+Z-O-M-B-I-E-S 4: Dawn of the Vampires .Canada .English .Adventure .Comedy .Family	`1https://vidfast.pro/movie/1243341
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-12-225
+2025^-13-225
