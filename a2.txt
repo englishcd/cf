@@ -437,7 +437,19 @@ STRAW .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1426776
 The Pickup .US .English .Action .Comedy	`1https://vidfast.pro/movie/1106289
 Regretting You .US .English .Drama .Romance	`1https://vidfast.pro/movie/1327862
 The Alto Knights .US .English .Biography .Crime .Drama	`1https://vidfast.pro/movie/1013601
+Dog Man .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/774370
+A House of Dynamite .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1290159
+Clown in a Cornfield .US .English .Horror	`1https://vidfast.pro/movie/713364
+Troll 2 .Norway .Norwegian .Action .Adventure .Drama	`1https://vidfast.pro/movie/1180831
+The Witcher: Sirens of the Deep .Poland .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/1203329
+Another Simple Favor .US .English .Comedy .Crime .Mystery	`1https://vidfast.pro/movie/974573
+You're Cordially Invited .US .English .Comedy	`1https://vidfast.pro/movie/996821
+Freakier Friday .US .English .Comedy .Family .Fantasy	`1https://vidfast.pro/movie/1125257
+The Strangers: Chapter 2 .UK .English .Horror .Mystery	`1https://vidfast.pro/movie/1010756
+Locked .US .English .Thriller	`1https://vidfast.pro/movie/1083968
+Keeper .Canada .English .Horror	`1https://vidfast.pro/movie/1288072
+Deep Cover .UK .English .Action .Comedy  Crime	`1https://vidfast.pro/movie/1239193
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-11-225
+2025^-12-225
