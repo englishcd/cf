@@ -425,7 +425,19 @@ Dhurandhar .India .Hindi .Action .Thriller	`1https://vidfast.pro/movie/1291608
 Caught Stealing .US .English .Comedy .Crime .Thriller	`1https://vidfast.pro/movie/1245993
 One of Them Days .US .English .Comedy	`1https://vidfast.pro/movie/1280672
 Highest 2 Lowest .US .English .Crime .Drama .Mystery	`1https://vidfast.pro/movie/1242434
+Good Boy .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1422096
+The Lost Bus .US .English .Biography .Drama .History	`1https://vidfast.pro/movie/1236470
+The Ugly Stepsister .Denmark .Norwegian .Comedy .Drama .Horror	`1https://vidfast.pro/movie/1284120
+Sentimental Value .Turkey .Norwegian .Drama	`1https://vidfast.pro/movie/1124566
+The Roses .UK .English .Comedy	`1https://vidfast.pro/movie/1267905
+Plankton: The Movie .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/1104845
+G20 .US .English .Action .Thriller	`1https://vidfast.pro/movie/1045938
+Batman Ninja vs. Yakuza League .Japan .Japanese .Animation	`1https://vidfast.pro/movie/1297763
+STRAW .US .English .Drama .Thriller	`1https://vidfast.pro/movie/1426776
+The Pickup .US .English .Action .Comedy	`1https://vidfast.pro/movie/1106289
+Regretting You .US .English .Drama .Romance	`1https://vidfast.pro/movie/1327862
+The Alto Knights .US .English .Biography .Crime .Drama	`1https://vidfast.pro/movie/1013601
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
-2025^-10-225
+2025^-11-225
