@@ -10,34 +10,56 @@
 [y]Movies/Films with Multi Subtitles[z]	^-
 
 2026	^-26
-Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
+Project Hail Mary .US .English .Adventure .Sci-Fi	`1https://vidfast.pro/movie/687163
+The Super Mario Galaxy Movie .Japan .English .Adventure .Animation .Family	`1https://vidfast.pro/movie/1226863
 Send Help .US .English .Comedy .Horror .Thriller	`1https://vidfast.pro/movie/1198994
-Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
-28 Years Later: The Bone Temple .UK .English .Horror .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1272837
+Mortal Kombat II .US .English .Action .Adventure .Fantasy	`1https://vidfast.pro/movie/931285
+Shelter .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1290821
+Avatar: Aang, The Last Airbender .US .English .Action .Adventure .Animation	`1https://vidfast.pro/movie/980431
+Hoppers .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/1327819
 Scream 7 .US .English .Crime .Horror .Mystery	`1https://vidfast.pro/movie/1159559
+Greenland 2: Migration .UK .English .Action .Adventure .Sci-Fi	`1https://vidfast.pro/movie/840464
+A Marvel Television Special Presentation - The Punisher: One Last Kill .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1439930
+Crime 101 .UK .English .Crime .Thriller	`1https://vidfast.pro/movie/1171145
+Apex .US .English .Action .Thriller	`1https://vidfast.pro/movie/1318447
+28 Years Later: The Bone Temple .UK .English .Horror .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1272837
+GOAT .US .English .Action .Animation .Comedy	`1https://vidfast.pro/movie/1297842
 Mercy .US .English .Action .Crime .Drama	`1https://vidfast.pro/movie/1236153
 War Machine .Australia .English .Action .Sci-Fi .Thriller	`1https://vidfast.pro/movie/1265609
-The Rip .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1306368
-The Wrecking Crew .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1168190
-Crime 101 .UK .English .Crime .Thriller	`1https://vidfast.pro/movie/1171145
-Project Hail Mary .US .English .Adventure .Sci-Fi	`1https://vidfast.pro/movie/687163
-Iron Lung .US .English .Horror .Sci-Fi	`1https://vidfast.pro/movie/1116201
-Return to Silent Hill .France .English .Horror .Mystery	`1https://vidfast.pro/movie/680493
+Swapped .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/1007757
+The Devil Wears Prada 2 .US .English .Comedy .Drama	`1https://vidfast.pro/movie/1314481
+Ready or Not: Here I Come .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1266127
 “Wuthering Heights” .US .English .Drama .Romance	`1https://vidfast.pro/movie/1316092
-GOAT .US .English .Action .Animation .Comedy	`1https://vidfast.pro/movie/1297842
-Primate .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1315303
+The Rip .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1306368
+Obsession .US .English .Horror	`1https://vidfast.pro/movie/1339713
+Iron Lung .US .English .Horror .Sci-Fi	`1https://vidfast.pro/movie/1116201
+The Wrecking Crew .US .English .Action .Comedy .Crime	`1https://vidfast.pro/movie/1168190
+They Will Kill You .US .English .Action .Comedy .Horror	`1https://vidfast.pro/movie/1292695
 Good Luck, Have Fun, Don't Die .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/1119449
+Return to Silent Hill .France .English .Horror .Mystery	`1https://vidfast.pro/movie/680493
+The Drama .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1325734
+Primate .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1315303
 The Bluff .US .English .Action .Thriller	`1https://vidfast.pro/movie/799882
-Whistle .Ireland .English .Horror .Mystery	`1https://vidfast.pro/movie/1193501
-Hoppers .US .English .Adventure .Animation .Comedy	`1https://vidfast.pro/movie/1327819
-Cold Storage .UK .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/696393
-Peaky Blinders: The Immortal Man .UK .English .Crime .Drama	`1https://vidfast.pro/movie/875828
-People We Meet on Vacation .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1034716
+Remarkably Bright Creatures .US .English .Drama .Mystery	`1https://vidfast.pro/movie/1330021
 Mike & Nick & Nick & Alice .US .English .Comedy .Crime .Sci-Fi	`1https://vidfast.pro/movie/1115544
-How to Make a Killing .UK .English .Comedy .Drama .Thriller	`1https://vidfast.pro/movie/467905
-Joe's College Road Trip .US .English .Comedy	`1https://vidfast.pro/movie/1243460
+Normal .US .English .Action .Crime .Thriller	`1https://vidfast.pro/movie/1242332
+Whistle .Ireland .English .Horror .Mystery	`1https://vidfast.pro/movie/1193501
 The Bride! .US .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1159831
+Peaky Blinders: The Immortal Man .UK .English .Crime .Drama	`1https://vidfast.pro/movie/875828
+Cold Storage .UK .English .Comedy .Horror .Sci-Fi	`1https://vidfast.pro/movie/696393
+Outcome .US .English .Comedy .Drama	`1https://vidfast.pro/movie/1049471
+Undertone .Canada .English .Horror .Mystery	`1https://vidfast.pro/movie/1480387
+Thrash .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1290417
+How to Make a Killing .UK .English .Comedy .Drama .Thriller	`1https://vidfast.pro/movie/467905
+Balls Up .US .English .Action .Adventure .Comedy	`1https://vidfast.pro/movie/1084577
 Pretty Lethal .US .English .Action .Horror .Thriller	`1https://vidfast.pro/movie/1084187
+People We Meet on Vacation .US .English .Comedy .Drama .Romance	`1https://vidfast.pro/movie/1034716
+Faces of Death .US .English .Horror	`1https://vidfast.pro/movie/855435
+The Roast of Kevin Hart .US .English .Comedy	`1https://vidfast.pro/movie/1658982
+Joe's College Road Trip .US .English .Comedy	`1https://vidfast.pro/movie/1243460
+Roommates .US .English .Comedy	`1https://vidfast.pro/movie/1511057
+Reminders of Him .US .English .Drama .Romance	`1https://vidfast.pro/movie/1367642
+
 The Big Fake .Italy .Italian .Crime .Drama .Thriller	`1https://vidfast.pro/movie/1443762
 The Strangers: Chapter 3 .UK .English .Horror .Thriller	`1https://vidfast.pro/movie/1010755
 Love Me Love Me .Italy .English .Drama .Romance	`1https://vidfast.pro/movie/1317672
@@ -46,7 +68,6 @@ Do Not Enter .US .English .Horror	`1https://vidfast.pro/movie/999136
 One Mile: Chapter One .US .English .Action .Crime	`1https://vidfast.pro/movie/1327688
 The Muppet Show .US .English .Comedy .Drama .Family	`1https://vidfast.pro/movie/1548113
 State of Fear .Brazil .Portuguese .Action .Crime .Drama	`1https://vidfast.pro/movie/1426964
-Ready or Not: Here I Come .US .English .Comedy .Horror	`1https://vidfast.pro/movie/1266127
 In the Blink of an Eye .US .English .Drama .Sci-Fi	`1https://vidfast.pro/movie/1032892
 Killer Whale .Australia .English .Action .Horror .Mystery	`1https://vidfast.pro/movie/1412598
 Agent Zeta .Spain .Spanish .Drama .Thriller	`1https://vidfast.pro/movie/1314786
@@ -55,11 +76,8 @@ Louis Theroux: Inside the Manosphere .UK .English .Documentary	`1https://vidfast
 The Dreadful .US .English .Horror	`1https://vidfast.pro/movie/1242937
 Misdirection .US .English .Horror .Thriller	`1https://vidfast.pro/movie/1146344
 Kissing Is the Easy Part .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1515615
-Undertone .Canada .English .Horror .Mystery	`1https://vidfast.pro/movie/1480387
-They Will Kill You .US .English .Action .Comedy .Horror	`1https://vidfast.pro/movie/1292695
 The Confession .US .English .Horror	`1https://vidfast.pro/movie/1454741
 Solo Mio .US .English .Comedy .Romance	`1https://vidfast.pro/movie/1291335
-Reminders of Him .US .English .Drama .Romance	`1https://vidfast.pro/movie/1367642
 Nirvanna the Band the Show the Movie .Canada .English .Adventure .Comedy .Sci-Fi	`1https://vidfast.pro/movie/1154538
 The Huntsman .English .Mystery .Thriller	`1https://vidfast.pro/movie/1288246
 Honey Bunch .Canada .English .Fantasy .Horror .Sci-Fi	`1https://vidfast.pro/movie/1339173
@@ -315,6 +333,7 @@ Oscar Shaw .Action .Crime .Drama	`1https://vidfast.pro/movie/1601243
 ^=.Miami Nights .Action .Crime .Thriller	`1https://vidfast.pro/movie/1579111
 ^=..Looking for Mr Right .Crime .Drama	`1https://vidfast.pro/movie/
 ^=..Delta Protocol .Action .Mystery .Thriller	`1https://vidfast.pro/movie/
+Black Crab .Action .Thriller	`1https://vidfast.pro/movie/tt6708668
 
 2025	^-1-225
 Sinners .US .English .Action .Drama .Horror	`1https://vidfast.pro/movie/1233413
@@ -476,6 +495,14 @@ The Legend of Ochi .Finland .English .Adventure .Family .Fantasy	`1https://vidfa
 Fear Street: Prom Queen .US .English .Horror .Mystery .Thriller	`1https://vidfast.pro/movie/1001414
 The Elixir .Indonesia .Indonesian .Horror .Thriller	`1https://vidfast.pro/movie/1306525
 Code 3 .US .English .Action .Comedy	`1https://vidfast.pro/movie/1161617
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
+AAA	`1https://vidfast.pro/movie/
 
 	^- "t" AAA	`1https://vidfast.pro/movie/
 
